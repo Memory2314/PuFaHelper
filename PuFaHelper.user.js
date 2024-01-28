@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         青少年学习宪法小助手
+// @name         青少年普法小助手
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
