@@ -2,10 +2,10 @@
 // @name         青少年普法小助手
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  教育部全国青少年普法网自动答题
 // @author       Memory
 // @match        https://static.qspfw.moe.gov.cn/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=moe.gov.cn
+// @icon         https://static.qspfw.moe.gov.cn/user/logo.png
 // @grant        none
 // ==/UserScript==
 
